@@ -20,3 +20,5 @@ Witam serdecznie, mam na imie Robert
 Dzien dobry Agata Mlynarczyk
 Marysia Zoledziewska
 Hej Maria Zoledziewska 
+
+Jakub Chojnacki pozdrawiam
